@@ -1,0 +1,27 @@
+{
+  "name": "One",
+  "version": "1.0.0",
+  "description": "第一周周考",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langlingling/One.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langlingling/One/issues"
+  },
+  "homepage": "https://github.com/langlingling/One#readme",
+  "devDependencies": {
+    "gulp-clean-css": "^4.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
